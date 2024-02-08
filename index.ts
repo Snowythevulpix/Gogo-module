@@ -3,8 +3,8 @@ import { RepoMetadata } from '@mochiapp/js/dist';
 export * from './src/module'
 
 export default {
-  name: "GogoAnime",
-  description: "basic GogoAnime module \nThank Consumet for their extractors:\n https://github.com/consumet/consumet.ts",
-  author: "DeNeRr",
-  icon: "https://anitaku.to/img/icon/logo.png",
+  name: "Nyaa",
+  description: "Basic module for Nyaa.si",
+  author: "Vulpix500",
+  icon: "https://nyaa.si/static/favicon.png",
 } satisfies RepoMetadata
